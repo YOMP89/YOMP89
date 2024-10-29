@@ -19,10 +19,12 @@ Soy un **Ingeniero en Telecomunicaciones** y **Licenciado en Filosofía** con ex
 ## 📞 **Contacto**
 
 ### 🌐 **Página Web**
-Puedes conocer más sobre mi trabajo, servicios y proyectos visitando mi [sitio web oficial](https://www.tupaginaweb.com).
+Puedes conocer más sobre mi trabajo, servicios y proyectos visitando mi [sitio web oficial](https://www.nexacol.com).
 
 ### 💼 **Perfil en LinkedIn**
-Conéctate conmigo y revisa mi experiencia profesional y colaboraciones en mi perfil de [LinkedIn](https://www.linkedin.com/in/tu-perfil).
+Conéctate conmigo y revisa mi experiencia profesional y colaboraciones en mi perfil de [LinkedIn](www.linkedin.com/in/omar-parada89
+
+).
 
 ---
 
